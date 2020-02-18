@@ -49,31 +49,38 @@
 - View shot few times / task notes
 - plan how to do cleanup ( tracking / painting / etc )
 - try finishing one frame
-- repeat process on other frames
+- repeat process on other frames (track / patch)
 
 
 ## EXERCISE
-- 001 - mobile all 4 points visible
-- 002 - mobile screen less points
-- 003 - more production shots
+- 01 - easy, clean board, make it white glass/plastic
+[<img src="_thumbs/prep1.png">](https://github.com/lalamax3d/vfx_nca_2020/)
+- 02 - easy, remove billboards/ paint roof tops
+[<img src="_thumbs/prep2.png">](https://github.com/lalamax3d/vfx_nca_2020/)
+- 03 - medium, clean logo on mobile screen(reflections)
+[<img src="_thumbs/prep3.png">](https://github.com/lalamax3d/vfx_nca_2020/)
+- 04 - medium, clean logo on mobile screen2
+[<img src="_thumbs/prep4.png">](https://github.com/lalamax3d/vfx_nca_2020/)
+- 05 - medium, remove wounds on face 
+[<img src="_thumbs/prep5.png">](https://github.com/lalamax3d/vfx_nca_2020/)
+- 06 - tough, clean logo on mobile screen
+[<img src="_thumbs/prep6.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
 
 
 # WEEK 04 (Design)
+- intro to AE Text Engine
+- intro to AE Shape Engine
 
 
 ## LECTURE NOTES -
-- View shot few times / task notes
-- plan how to do cleanup ( tracking / painting / etc )
-- try finishing one frame
-- repeat process on other frames
-
+- 
+- 
 
 ## EXERCISE
-- 001 - mobile all 4 points visible
-- 002 - mobile screen less points
-- 003 - more production shots
+- 06 - design simple 30 seconds intro
+[<img src="_thumbs/design1.png">](https://github.com/lalamax3d/vfx_nca_2020/)
 
-# WEEK 05 (Color / Comp)
+# WEEK 05 (Color / Keying)
 
 
 ## LECTURE NOTES -
@@ -102,3 +109,11 @@
 - 001 - mobile all 4 points visible
 - 002 - mobile screen less points
 - 003 - more production shots
+
+
+design
+
+coloring / keying
+
+particle
+shading
