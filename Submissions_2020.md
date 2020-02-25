@@ -29,3 +29,28 @@
 | amina      |v1| 9, 9, 6  |M1|0|T|0|
 | faiza      |v1| 9, 9, 8  |M1|0|T|7|
 | moiz       |v1| 0     |M1|0|T|0|
+
+## Week 04 - Design Text Animation
+
+| Name   | |Marks |
+|----------|:--:|
+| ali haider |0|
+| ali naeem  |6|
+| marhaba    |0|
+| amina      |0|
+| faiza      |10|
+| moiz       |0|
+
+## Week 05 - Color / Keying
+
+| Name   | Marks |
+|----------|:--:|
+| ali haider |0|
+| ali naeem  |6|
+| marhaba    |0|
+| amina      |8|
+| faiza      |9|
+| moiz       |0|
+
+
+
