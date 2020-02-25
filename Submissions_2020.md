@@ -32,17 +32,6 @@
 
 ## Week 04 - Design Text Animation
 
-| Name   | |Marks |
-|----------|:--:|
-| ali haider |0|
-| ali naeem  |6|
-| marhaba    |0|
-| amina      |0|
-| faiza      |10|
-| moiz       |0|
-
-## Week 05 - Color / Keying
-
 | Name   | Marks |
 |----------|:--:|
 | ali haider |0|
@@ -50,6 +39,17 @@
 | marhaba    |0|
 | amina      |8|
 | faiza      |9|
+| moiz       |0|
+
+## Week 05 - Color / Keying
+
+| Name   | Marks |
+|----------|:--:|
+| ali haider |0|
+| ali naeem  |0|
+| marhaba    |0|
+| amina      |0|
+| faiza      |0|
 | moiz       |0|
 
 

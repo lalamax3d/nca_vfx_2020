@@ -68,32 +68,43 @@
 
 
 # WEEK 04 (Design)
-- intro to AE Text Engine
-- intro to AE Shape Engine
 
 
 ## LECTURE NOTES -
-- 
-- 
+- intro to AE Text Engine
+- intro to AE Shape Engine
+- intro to mask vegas approach
+- intro to audio visualization enging
+- how to study / use AE Design Kits
+ 
 
 ## EXERCISE
-- 06 - design simple 30 seconds intro
+- 01 - design simple 30 seconds intro
+    - try to match beat
+
 [<img src="_thumbs/design1.png">](https://github.com/lalamax3d/vfx_nca_2020/)
+- 02 - design mid term project ( AR / VR)
+    - try to lock activity (KISS - keep it simple stupid)
+    - try locking few frames first
+[<img src="_thumbs/design2.png">](https://github.com/lalamax3d/vfx_nca_2020/)
 
 # WEEK 05 (Color / Keying)
 
 
 ## LECTURE NOTES -
-- View shot few times / task notes
-- plan how to do cleanup ( tracking / painting / etc )
-- try finishing one frame
-- repeat process on other frames
-
+- 
 
 ## EXERCISE
-- 001 - mobile all 4 points visible
-- 002 - mobile screen less points
-- 003 - more production shots
+- 01 - convert left image to right one
+[<img src="_thumbs/cc_01.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
+- 02 - convert left image to right one
+[<img src="_thumbs/cc_02.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
+- 03 - convert left image to right one
+[<img src="_thumbs/cc_03.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
+- 04 - convert left image to right one
+[<img src="_thumbs/cc_04.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
+- 05 - convert left image to right one
+[<img src="_thumbs/cc_05.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
 
 # WEEK 06 (3D)
 
@@ -111,9 +122,4 @@
 - 003 - more production shots
 
 
-design
 
-coloring / keying
-
-particle
-shading
