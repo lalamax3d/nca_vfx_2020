@@ -28,7 +28,7 @@
 | marhaba    |v1| 9  |M1|9, 9|T|0|
 | amina      |v1| 9, 9, 6  |M1|0|T|0|
 | faiza      |v1| 9, 9, 8  |M1|0|T|7|
-| moiz       |v1| 0     |M1|0|T|0|
+| moiz       |v1| 9,     |M1|0|T|8|
 
 ## Week 04 - Design Text Animation
 
@@ -39,18 +39,18 @@
 | marhaba    |0|
 | amina      |8|
 | faiza      |9|
-| moiz       |0|
+| moiz       |8.5|
 
 ## Week 05 - Color / Keying
 
 | Name   | Marks |
 |----------|:--:|
+| ali naeem  |8|
+| marhaba    |8|
+| amina      |10|
+| faiza      |10|
+| moiz       |10|
 | ali haider |0|
-| ali naeem  |0|
-| marhaba    |0|
-| amina      |0|
-| faiza      |0|
-| moiz       |0|
 
 
 

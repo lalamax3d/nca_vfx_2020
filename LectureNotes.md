@@ -89,7 +89,8 @@
 [<img src="_thumbs/design2.png">](https://github.com/lalamax3d/vfx_nca_2020/)
 
 # WEEK 05 (Color / Keying)
-
+- curve / HSL
+- 
 
 ## LECTURE NOTES -
 - 
@@ -123,3 +124,11 @@
 
 
 
+
+color / main / beauty
+
+shadow
+reflection
+ambient occlusion
+vector / motion blur
+depth blur
