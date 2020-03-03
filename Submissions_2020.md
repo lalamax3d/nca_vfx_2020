@@ -41,7 +41,7 @@
 | faiza      |9|
 | moiz       |8.5|
 
-## Week 05 - Color / Keying
+## Week 05 - Coloring 1
 
 | Name   | Marks |
 |----------|:--:|
@@ -51,6 +51,24 @@
 | faiza      |10|
 | moiz       |10|
 | ali haider |0|
+## Week 05 - Coloring 2
+| Name   | Marks |
+|----------|:--:|
+| ali naeem  ||
+| marhaba    |9|
+| amina      |8|
+| faiza      |8|
+| moiz       |10|
+| ali haider ||
+## Week 06 - Shading - 3d tracking 1
 
+| Name   | Marks |
+|----------|:--:|
+| ali haider |8|
+| ali naeem  ||
+| marhaba    |9,10|
+| amina      |8,8|
+| faiza      |8,10|
+| moiz       |10|
 
 

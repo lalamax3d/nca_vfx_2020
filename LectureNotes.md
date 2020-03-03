@@ -93,31 +93,26 @@
 - 
 
 ## LECTURE NOTES -
-- 
 
-## EXERCISE
-- 01 - convert left image to right one
-[<img src="_thumbs/cc_01.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
-- 02 - convert left image to right one
-[<img src="_thumbs/cc_02.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
-- 03 - convert left image to right one
-[<img src="_thumbs/cc_03.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
-- 04 - convert left image to right one
-[<img src="_thumbs/cc_04.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
-- 05 - convert left image to right one
-[<img src="_thumbs/cc_05.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
+## EXERCISE 1 - Coloring
+- try to match source image to target
+[<img src="_thumbs/coloring_day1.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
+
+## EXERCISE 2 - Coloring
+- Put an image in an environment and match lighting / toning as much as possible
+[<img src="_thumbs/coloring_day2.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
 
 # WEEK 06 (3D)
 
 
-## LECTURE NOTES -
-- View shot few times / task notes
-- plan how to do cleanup ( tracking / painting / etc )
-- try finishing one frame
-- repeat process on other frames
+## EXERCISE 1
+- 2 shots, do simple 3d tracking, place 2d / 3d object / element in it
+## EXERCISE 2
+- 2 shots, do simple 3d tracking, place 2d / 3d object / element in it
 
+- 
+- 
 
-## EXERCISE
 - 001 - mobile all 4 points visible
 - 002 - mobile screen less points
 - 003 - more production shots
