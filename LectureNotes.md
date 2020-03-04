@@ -81,12 +81,11 @@
 ## EXERCISE
 - 01 - design simple 30 seconds intro
     - try to match beat
-
-[<img src="_thumbs/design1.png">](https://github.com/lalamax3d/vfx_nca_2020/)
+[<img src="_thumbs/design1.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
 - 02 - design mid term project ( AR / VR)
     - try to lock activity (KISS - keep it simple stupid)
     - try locking few frames first
-[<img src="_thumbs/design2.png">](https://github.com/lalamax3d/vfx_nca_2020/)
+[<img src="_thumbs/design2.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
 
 # WEEK 05 (Color / Keying)
 - curve / HSL
@@ -102,28 +101,32 @@
 - Put an image in an environment and match lighting / toning as much as possible
 [<img src="_thumbs/coloring_day2.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
 
-# WEEK 06 (3D)
+# WEEK 06 (3D Tracking / Shading / Rendering)
 
+## LECTURE NOTES (3D Tracking)
+- tracking errors
+- locating points / planes in 3d
+- verify in ae / nuke 
+- verify in 3d after export
+- learn to orient 3d world on both sides
 
-## EXERCISE 1
+## EXERCISE 1 - 3D Tracking & Verify
 - 2 shots, do simple 3d tracking, place 2d / 3d object / element in it
-## EXERCISE 2
-- 2 shots, do simple 3d tracking, place 2d / 3d object / element in it
 
-- 
-- 
+## LECTURE NOTES (3D Shading)
+- create pano image while shooting
+- use pano image to lit the 3d scene
+- setup **PBR** shaders and matte shaders
+- create **RENDER PASSES** / controls for post
+    - color / main / beauty
+    - shadow
+    - reflection
+    - ambient occlusion
+    - vector / motion blur
+    - depth blur
+## EXERCISE 2 - 3D Solve, Place 3d element
+- 2 shots, do simple 3d tracking,  3d object / element in it
 
-- 001 - mobile all 4 points visible
-- 002 - mobile screen less points
-- 003 - more production shots
 
 
 
-
-color / main / beauty
-
-shadow
-reflection
-ambient occlusion
-vector / motion blur
-depth blur
