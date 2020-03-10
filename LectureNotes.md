@@ -112,6 +112,8 @@
 
 ## EXERCISE 1 - 3D Tracking & Verify
 - 2 shots, do simple 3d tracking, place 2d / 3d object / element in it
+[<img src="_thumbs/3d_tracking_Ex_0a.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
+[<img src="_thumbs/3d_tracking_Ex_0b.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
 
 ## LECTURE NOTES (3D Shading)
 - create pano image while shooting
@@ -126,7 +128,16 @@
     - depth blur
 ## EXERCISE 2 - 3D Solve, Place 3d element
 - 2 shots, do simple 3d tracking,  3d object / element in it
+[<img src="_thumbs/3d_tracking_Ex_2.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
 
+
+# WEEK 07 (3D Displacements / Deformations)
+
+## EXERCISE 1 - Give Persp Shift to OLD Painting
+[<img src="_thumbs/displacement1.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
+## EXERCISE 2 - Animate Worm Under Skin (Face or Hand)
+[<img src="_thumbs/displacement2.png">](https://github.com/lalamax3d/vfx_nca_2020/)
+## EXERCISE 3 - Track a logo on shirt or flat (waving)
 
 
 

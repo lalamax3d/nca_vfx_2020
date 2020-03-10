@@ -12,7 +12,7 @@
 
 | Name   | Revision  |   Marks      |
 |----------|:--:|:-------------:|
-| ali haider |v1| 0|
+| ali haider |v1| 8,7,7|
 | ali naeem  |v1| 7, 5, 5 |
 | marhaba    |v1| 8,8,7 |
 | amina      |v1| 6,6,8 |
@@ -50,7 +50,7 @@
 | amina      |10|
 | faiza      |10|
 | moiz       |10|
-| ali haider |0|
+| ali haider |9|
 ## Week 05 - Coloring 2
 | Name   | Marks |
 |----------|:--:|
@@ -59,7 +59,7 @@
 | amina      |9.5|
 | faiza      |8|
 | moiz       |10|
-| ali haider ||
+| ali haider |9|
 ## Week 06 - Shading - 3d tracking 1
 
 | Name   | Marks |
@@ -71,4 +71,37 @@
 | faiza      |8,10|
 | moiz       |10|
 
+## Week 06 - Ex 2 - Shoot Put 3D element
 
+| Name   | Marks |
+|----------|:--:|
+| ali haider ||
+| ali naeem  ||
+| marhaba    ||
+| amina      |10|
+| faiza      ||
+| moiz       ||
+
+
+## Week 07 - Ex 1 - Displacements
+
+| Name   | Marks |
+|----------|:--:|
+| ali haider ||
+| ali naeem  ||
+| marhaba    ||
+| amina      ||
+| faiza      ||
+| moiz       ||
+
+## Week 07 - Ex2 - Deformations
+## Week 06 - Ex 2 - Shoot Put 3D element
+
+| Name   | Marks |
+|----------|:--:|
+| ali haider ||
+| ali naeem  ||
+| marhaba    ||
+| amina      ||
+| faiza      ||
+| moiz       ||
