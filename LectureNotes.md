@@ -137,7 +137,8 @@
 [<img src="_thumbs/displacement1.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
 ## EXERCISE 2 - Animate Worm Under Skin (Face or Hand)
 [<img src="_thumbs/displacement2.png">](https://github.com/lalamax3d/vfx_nca_2020/)
-## EXERCISE 3 - Track a logo on shirt or flat (waving)
+## EXERCISE 3 - Track a logo on deforming surface
+[<img src="_thumbs/tracking_deformations.png">](https://github.com/lalamax3d/vfx_nca_2020/)
 
 
 

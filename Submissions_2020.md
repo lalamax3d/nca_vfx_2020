@@ -17,7 +17,7 @@
 | marhaba    |v1| 8,8,7 |
 | amina      |v1| 6,6,8 |
 | faiza      |v1| 7, 8, 6 |
-| moiz       |v1| 8, |
+| moiz       |v1| 8,7 |
 
 ## Week 03 - Cleanup prep work
 
@@ -71,16 +71,16 @@
 | faiza      |8,10|
 | moiz       |10|
 
-## Week 06 - Ex 2 - Shoot Put 3D element
+## Week 06 - Ex 2 - Shoot - Put a 3D element in it
 
 | Name   | Marks |
 |----------|:--:|
 | ali haider ||
 | ali naeem  ||
-| marhaba    ||
-| amina      |10|
-| faiza      ||
-| moiz       ||
+| marhaba    |8.5|
+| amina      |9|
+| faiza      |8|
+| moiz       |8|
 
 
 ## Week 07 - Ex 1 - Displacements
@@ -94,8 +94,18 @@
 | faiza      ||
 | moiz       ||
 
-## Week 07 - Ex2 - Deformations
-## Week 06 - Ex 2 - Shoot Put 3D element
+## Week 07 - Ex2 - Parallex From Image
+
+| Name   | Marks |
+|----------|:--:|
+| ali haider ||
+| ali naeem  ||
+| marhaba    ||
+| amina      ||
+| faiza      ||
+| moiz       ||
+
+## Week 07 - Ex3 - Deformation Tracking
 
 | Name   | Marks |
 |----------|:--:|
