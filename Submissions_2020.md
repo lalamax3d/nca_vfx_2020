@@ -83,35 +83,26 @@
 | moiz       |8|
 
 
-## Week 07 - Ex 1 - Displacements
+## Week 07 - Perspective In General
 
-| Name   | Marks |
-|----------|:--:|
-| ali haider ||
-| ali naeem  ||
-| marhaba    ||
-| amina      ||
-| faiza      ||
-| moiz       ||
+| Name   | Displacement | Parallex | Tracking Deformation|
+|----------|:--:|:--:|:--:|
+| ali haider |8|4|0|
+| ali naeem  |6|0|9|
+| marhaba    |8|0|0|
+| amina      |9|6|10|
+| faiza      |0|0|0|
+| moiz       |8.5|0|0|
 
-## Week 07 - Ex2 - Parallex From Image
 
-| Name   | Marks |
-|----------|:--:|
-| ali haider ||
-| ali naeem  ||
-| marhaba    ||
-| amina      ||
-| faiza      ||
-| moiz       ||
 
-## Week 07 - Ex3 - Deformation Tracking
+## Week 08 - Particles
 
-| Name   | Marks |
-|----------|:--:|
-| ali haider ||
-| ali naeem  ||
-| marhaba    ||
-| amina      ||
-| faiza      ||
-| moiz       ||
+| Name   | Smoke | EnergyBall | Shockwave |
+|----------|:--:|:--:|:--:|
+| ali haider |6||
+| ali naeem  |5||
+| marhaba    |0||
+| amina      |0||
+| faiza      |6||
+| moiz       |0||
