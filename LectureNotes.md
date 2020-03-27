@@ -5,7 +5,7 @@
 - Create Separate Shapes
 - Use as Few Keyframes as Possible
 - Study the Footage
-- Consider Animation Principles 
+- Consider Animation Principles
 - Learn how to apply Global Offsets or Ripple Edit
 - Simple Planer Tracker Usage in Roto(Second Week)
 ## ROTO EXERCISES
@@ -61,7 +61,7 @@
 [<img src="_thumbs/prep3.png">](https://github.com/lalamax3d/vfx_nca_2020/)
 - 04 - medium, clean logo on mobile screen2
 [<img src="_thumbs/prep4.png">](https://github.com/lalamax3d/vfx_nca_2020/)
-- 05 - medium, remove wounds on face 
+- 05 - medium, remove wounds on face
 [<img src="_thumbs/prep5.png">](https://github.com/lalamax3d/vfx_nca_2020/)
 - 06 - tough, clean logo on mobile screen
 [<img src="_thumbs/prep6.jpg">](https://github.com/lalamax3d/vfx_nca_2020/)
@@ -76,7 +76,7 @@
 - intro to mask vegas approach
 - intro to audio visualization enging
 - how to study / use AE Design Kits
- 
+
 
 ## EXERCISE
 - 01 - design simple 30 seconds intro
@@ -89,7 +89,7 @@
 
 # WEEK 05 (Color / Keying)
 - curve / HSL
-- 
+-
 
 ## LECTURE NOTES -
 
@@ -106,7 +106,7 @@
 ## LECTURE NOTES (3D Tracking)
 - tracking errors
 - locating points / planes in 3d
-- verify in ae / nuke 
+- verify in ae / nuke
 - verify in 3d after export
 - learn to orient 3d world on both sides
 
@@ -141,4 +141,28 @@
 [<img src="_thumbs/tracking_deformations.png">](https://github.com/lalamax3d/vfx_nca_2020/)
 
 
+# WEEK 08 (Particles)
 
+## EXERCISE 1 - Create Simple smoke over chimney
+
+
+- Take a photo around you (roof top) from where you can see other houses / lawns / rooftops. Then create a 2d smoke from particles.
+
+- Those who have no idea. can take help from this link
+    - https://blogs.adobe.com/contentcorner/2015/03/25/how-to-create-a-realistic-smoke-effect-in-after-effects/
+
+[<img src="_thumbs/pfx_1_smoke.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
+
+## EXERCISE 2 - Create Simple Energy Ball
+
+- Those who have no idea. can take help from following YT Videos
+    -
+    -
+[<img src="_thumbs/pfx_2_energyBall.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
+
+## EXERCISE 3 - Create Shockwave Ring
+
+Those who have no idea. can take help from following YT Videos
+-
+-
+[<img src="_thumbs/pfx_3_energyRing.gif">](https://github.com/lalamax3d/vfx_nca_2020/)

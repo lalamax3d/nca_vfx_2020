@@ -43,55 +43,35 @@
 
 ## Week 05 - Coloring 1
 
-| Name   | Marks |
-|----------|:--:|
-| ali naeem  |8|
-| marhaba    |8|
-| amina      |10|
-| faiza      |10|
-| moiz       |10|
-| ali haider |9|
-## Week 05 - Coloring 2
-| Name   | Marks |
-|----------|:--:|
-| ali naeem  ||
-| marhaba    |9|
-| amina      |9.5|
-| faiza      |8|
-| moiz       |10|
-| ali haider |9|
-## Week 06 - Shading - 3d tracking 1
+| Name   | Match |  Blend / Comp |
+|----------|:--:|:--:|
+| ali naeem  |8||
+| marhaba    |8|9|
+| amina      |10|9.5|
+| faiza      |10|8|
+| moiz       |10|10|
+| ali haider |9|9|
 
-| Name   | Marks |
-|----------|:--:|
-| ali haider |10|
-| ali naeem  ||
-| marhaba    |9,10|
-| amina      |8,8|
-| faiza      |8,10|
-| moiz       |10|
+## Week 06 - 3D Tracking / Shading
 
-## Week 06 - Ex 2 - Shoot - Put a 3D element in it
-
-| Name   | Marks |
-|----------|:--:|
-| ali haider ||
-| ali naeem  ||
-| marhaba    |8.5|
-| amina      |9|
-| faiza      |8|
-| moiz       |8|
-
+| Name   | Basic Camera Track |3D Rendering / Integration |
+|----------|:--:|:--:|
+| ali haider |10||
+| ali naeem  |||
+| marhaba    |9,10|8.5|
+| amina      |8,8|9|
+| faiza      |8,10|9|
+| moiz       |10|8|
 
 ## Week 07 - Perspective In General
 
 | Name   | Displacement | Parallex | Tracking Deformation|
 |----------|:--:|:--:|:--:|
 | ali haider |8|4|0|
-| ali naeem  |6|0|9|
+| ali naeem  |6|6|9|
 | marhaba    |8|0|0|
 | amina      |9|6|10|
-| faiza      |0|0|0|
+| faiza      |9|0|0|
 | moiz       |8.5|0|0|
 
 
