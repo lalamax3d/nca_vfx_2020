@@ -156,13 +156,13 @@
 ## EXERCISE 2 - Create Simple Energy Ball
 
 - Those who have no idea. can take help from following YT Videos
-    -
-    -
+    - https://www.youtube.com/watch?v=p20uBRSACFw&t=27s
+    - https://www.youtube.com/watch?v=LI-T8QbDd0M
 [<img src="_thumbs/pfx_2_energyBall.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
 
 ## EXERCISE 3 - Create Shockwave Ring
 
 Those who have no idea. can take help from following YT Videos
--
--
+- https://www.youtube.com/watch?v=JYbgjCR8PMI&t=144s
+- https://www.youtube.com/watch?v=2ztxKAm_rnM&t=294s
 [<img src="_thumbs/pfx_3_energyRing.gif">](https://github.com/lalamax3d/vfx_nca_2020/)
