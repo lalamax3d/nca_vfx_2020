@@ -71,7 +71,7 @@
 | ali naeem  |6|6|9|
 | marhaba    |8|6|8|
 | amina      |9|6|10|
-| faiza      |9|0|0|
+| faiza      |9|9|10|
 | moiz       |8.5|0|0|
 
 
