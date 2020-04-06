@@ -23,7 +23,7 @@
 
 | Name   | Easy  | Marks | Medium |  Marks | Tough |Marks |
 |----------|:--:|:---:|:---:|:---:| :---:|:---:|
-| ali haider |v1| 0     |M1|0|T|0|
+| ali haider |v1| 9     |M1|7|T|6|
 | ali naeem  |v1| 9.5  |M1|5|T|5|
 | marhaba    |v1| 9  |M1|10|T|0|
 | amina      |v1| 10  |M1|8|T|0|
@@ -84,5 +84,5 @@
 | ali naeem  |9|9|9.5|
 | marhaba    |5|9|8|
 | amina      |6|9|8|
-| faiza      |6|8.5|8.8|
+| faiza      |8|8.5|8.8|
 | moiz       |0|0|0|
